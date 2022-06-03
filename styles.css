@@ -1,0 +1,17 @@
+.container {
+    width: 35%;
+    margin: auto;
+}
+.text {
+    border: 2px solid red;
+    border-radius: 10px;
+    padding: 0 10px;
+}
+
+.link {
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    padding-top: 10px;
+    box-sizing: border-box;
+}
